@@ -1,0 +1,1371 @@
+[Cutoff]
+BelongsTo=-1
+Climb cut=0
+CodeSnip=-1
+Comment=
+Contour method=2
+Cut depth=0
+Cut direction=0.5
+Cutting rules=0
+Edge overlap=5
+Enabled=0
+Feed rate=1
+Finish allowance=0
+Grid size=50
+ID=-1
+Layer=
+Lead in=-1
+Lead in type=0
+Lead out=-1
+Lead out type=0
+Leadins on open paths=0
+Length=1
+Maximum X size=2000
+Maximum Y size=2000
+Minimum X size=500
+Minimum Y size=500
+Name=
+Offset open paths=0
+Optimisation=1
+Path rules=
+Plunge rate=100
+Remnants must be rectangular=0
+Reverse open paths=0
+Start depth=0
+Start position=0
+Tool=1
+Type=RemnantOperation
+[Cutoff/Custom]
+[Misc]
+Count=98
+FileVersion=1003
+optBias=0.5
+Optimisation=0
+Template=0
+[OpOrder]
+[Part 0]
+Angle=0
+copyOf=-1
+DrawingFile=C:\GIT\SW-DVS\–í—Å—è—á–∏–Ω–∞\–õ–∞–∑–µ—Ä\–°—Ç3 3.0–º–º\–ó–∞–∫–ª–∞–¥–Ω—ã–µ –ø–æ–¥ –æ–∫–Ω–∞ - –ì 3–º–º.DXF
+enabled=1
+HRef=0
+Locked=0
+name=–ó–∞–∫–ª–∞–¥–Ω—ã–µ –ø–æ–¥ –æ–∫–Ω–∞ - –ì 3–º–º
+VRef=0
+XPos=35
+YPos=55
+[Part 0/GroupSources]
+[Part 0/Operation0]
+Angle threshold=0.9
+BelongsTo=-1
+CodeSnip=-1
+Comment=
+Contour method=1
+Cut depth=0
+Cut direction=0.5
+Cutting rules=3
+Enabled=1
+Feed rate=2000
+Finish allowance=0
+ID=0
+Layer=0
+Lead in=3
+Lead in type=3
+Lead out=3
+Lead out type=3
+Leadins on open paths=0
+Length=1
+Loop corners=0
+Loop size=1
+Max chain length=0
+Minimise thermal distortion=0
+Name=–í—Ä–µ–∑–∫–∞ —Å–Ω–∞—Ä—É–∂–∏, 0, T2: –ü–ª–∞–∑–º–∞, 1,5 –º–º –ø—Ä–æ—Ä–µ–∑
+Offset open paths=0
+Optimisation=0
+Overcut=0
+Path rules=
+Plunge rate=100
+Reverse cut direction=0
+Reverse open paths=0
+Start depth=0
+Start position=4
+Tool=2
+Type=JetOperation
+[Part 0/Operation0/Custom]
+[Part 1]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 1
+VRef=0
+XPos=35
+YPos=169
+[Part 1/GroupSources]
+[Part 10]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 10
+VRef=0
+XPos=109
+YPos=397
+[Part 10/GroupSources]
+[Part 11]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 11
+VRef=0
+XPos=109
+YPos=511
+[Part 11/GroupSources]
+[Part 12]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 12
+VRef=0
+XPos=109
+YPos=625
+[Part 12/GroupSources]
+[Part 13]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 13
+VRef=0
+XPos=109
+YPos=739
+[Part 13/GroupSources]
+[Part 14]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 14
+VRef=0
+XPos=183
+YPos=55
+[Part 14/GroupSources]
+[Part 15]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 15
+VRef=0
+XPos=183
+YPos=169
+[Part 15/GroupSources]
+[Part 16]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 16
+VRef=0
+XPos=183
+YPos=283
+[Part 16/GroupSources]
+[Part 17]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 17
+VRef=0
+XPos=183
+YPos=397
+[Part 17/GroupSources]
+[Part 18]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 18
+VRef=0
+XPos=183
+YPos=511
+[Part 18/GroupSources]
+[Part 19]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 19
+VRef=0
+XPos=183
+YPos=625
+[Part 19/GroupSources]
+[Part 2]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 2
+VRef=0
+XPos=35
+YPos=283
+[Part 2/GroupSources]
+[Part 20]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 20
+VRef=0
+XPos=183
+YPos=739
+[Part 20/GroupSources]
+[Part 21]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 21
+VRef=0
+XPos=257
+YPos=55
+[Part 21/GroupSources]
+[Part 22]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 22
+VRef=0
+XPos=257
+YPos=169
+[Part 22/GroupSources]
+[Part 23]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 23
+VRef=0
+XPos=257
+YPos=283
+[Part 23/GroupSources]
+[Part 24]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 24
+VRef=0
+XPos=257
+YPos=397
+[Part 24/GroupSources]
+[Part 25]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 25
+VRef=0
+XPos=257
+YPos=511
+[Part 25/GroupSources]
+[Part 26]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 26
+VRef=0
+XPos=257
+YPos=625
+[Part 26/GroupSources]
+[Part 27]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 27
+VRef=0
+XPos=257
+YPos=739
+[Part 27/GroupSources]
+[Part 28]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 28
+VRef=0
+XPos=331
+YPos=55
+[Part 28/GroupSources]
+[Part 29]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 29
+VRef=0
+XPos=331
+YPos=169
+[Part 29/GroupSources]
+[Part 3]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 3
+VRef=0
+XPos=35
+YPos=397
+[Part 3/GroupSources]
+[Part 30]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 30
+VRef=0
+XPos=331
+YPos=283
+[Part 30/GroupSources]
+[Part 31]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 31
+VRef=0
+XPos=331
+YPos=397
+[Part 31/GroupSources]
+[Part 32]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 32
+VRef=0
+XPos=331
+YPos=511
+[Part 32/GroupSources]
+[Part 33]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 33
+VRef=0
+XPos=331
+YPos=625
+[Part 33/GroupSources]
+[Part 34]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 34
+VRef=0
+XPos=331
+YPos=739
+[Part 34/GroupSources]
+[Part 35]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 35
+VRef=0
+XPos=405
+YPos=55
+[Part 35/GroupSources]
+[Part 36]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 36
+VRef=0
+XPos=405
+YPos=169
+[Part 36/GroupSources]
+[Part 37]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 37
+VRef=0
+XPos=405
+YPos=283
+[Part 37/GroupSources]
+[Part 38]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 38
+VRef=0
+XPos=405
+YPos=397
+[Part 38/GroupSources]
+[Part 39]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 39
+VRef=0
+XPos=405
+YPos=511
+[Part 39/GroupSources]
+[Part 4]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 4
+VRef=0
+XPos=35
+YPos=511
+[Part 4/GroupSources]
+[Part 40]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 40
+VRef=0
+XPos=405
+YPos=625
+[Part 40/GroupSources]
+[Part 41]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 41
+VRef=0
+XPos=405
+YPos=739
+[Part 41/GroupSources]
+[Part 42]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 42
+VRef=0
+XPos=479
+YPos=55
+[Part 42/GroupSources]
+[Part 43]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 43
+VRef=0
+XPos=479
+YPos=169
+[Part 43/GroupSources]
+[Part 44]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 44
+VRef=0
+XPos=479
+YPos=283
+[Part 44/GroupSources]
+[Part 45]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 45
+VRef=0
+XPos=479
+YPos=397
+[Part 45/GroupSources]
+[Part 46]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 46
+VRef=0
+XPos=479
+YPos=511
+[Part 46/GroupSources]
+[Part 47]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 47
+VRef=0
+XPos=479
+YPos=625
+[Part 47/GroupSources]
+[Part 48]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 48
+VRef=0
+XPos=479
+YPos=739
+[Part 48/GroupSources]
+[Part 49]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 49
+VRef=0
+XPos=553
+YPos=55
+[Part 49/GroupSources]
+[Part 5]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 5
+VRef=0
+XPos=35
+YPos=625
+[Part 5/GroupSources]
+[Part 50]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 50
+VRef=0
+XPos=553
+YPos=169
+[Part 50/GroupSources]
+[Part 51]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 51
+VRef=0
+XPos=553
+YPos=283
+[Part 51/GroupSources]
+[Part 52]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 52
+VRef=0
+XPos=553
+YPos=397
+[Part 52/GroupSources]
+[Part 53]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 53
+VRef=0
+XPos=553
+YPos=511
+[Part 53/GroupSources]
+[Part 54]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 54
+VRef=0
+XPos=553
+YPos=625
+[Part 54/GroupSources]
+[Part 55]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 55
+VRef=0
+XPos=553
+YPos=739
+[Part 55/GroupSources]
+[Part 56]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 56
+VRef=0
+XPos=627
+YPos=55
+[Part 56/GroupSources]
+[Part 57]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 57
+VRef=0
+XPos=627
+YPos=169
+[Part 57/GroupSources]
+[Part 58]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 58
+VRef=0
+XPos=627
+YPos=283
+[Part 58/GroupSources]
+[Part 59]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 59
+VRef=0
+XPos=627
+YPos=397
+[Part 59/GroupSources]
+[Part 6]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 6
+VRef=0
+XPos=35
+YPos=739
+[Part 6/GroupSources]
+[Part 60]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 60
+VRef=0
+XPos=627
+YPos=511
+[Part 60/GroupSources]
+[Part 61]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 61
+VRef=0
+XPos=627
+YPos=625
+[Part 61/GroupSources]
+[Part 62]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 62
+VRef=0
+XPos=627
+YPos=739
+[Part 62/GroupSources]
+[Part 63]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 63
+VRef=0
+XPos=701
+YPos=55
+[Part 63/GroupSources]
+[Part 64]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 64
+VRef=0
+XPos=701
+YPos=169
+[Part 64/GroupSources]
+[Part 65]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 65
+VRef=0
+XPos=701
+YPos=283
+[Part 65/GroupSources]
+[Part 66]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 66
+VRef=0
+XPos=701
+YPos=397
+[Part 66/GroupSources]
+[Part 67]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 67
+VRef=0
+XPos=701
+YPos=511
+[Part 67/GroupSources]
+[Part 68]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 68
+VRef=0
+XPos=701
+YPos=625
+[Part 68/GroupSources]
+[Part 69]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 69
+VRef=0
+XPos=701
+YPos=739
+[Part 69/GroupSources]
+[Part 7]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 7
+VRef=0
+XPos=109
+YPos=55
+[Part 7/GroupSources]
+[Part 70]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 70
+VRef=0
+XPos=775
+YPos=55
+[Part 70/GroupSources]
+[Part 71]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 71
+VRef=0
+XPos=775
+YPos=169
+[Part 71/GroupSources]
+[Part 72]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 72
+VRef=0
+XPos=775
+YPos=283
+[Part 72/GroupSources]
+[Part 73]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 73
+VRef=0
+XPos=775
+YPos=397
+[Part 73/GroupSources]
+[Part 74]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 74
+VRef=0
+XPos=775
+YPos=511
+[Part 74/GroupSources]
+[Part 75]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 75
+VRef=0
+XPos=775
+YPos=625
+[Part 75/GroupSources]
+[Part 76]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 76
+VRef=0
+XPos=775
+YPos=739
+[Part 76/GroupSources]
+[Part 77]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 77
+VRef=0
+XPos=849
+YPos=55
+[Part 77/GroupSources]
+[Part 78]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 78
+VRef=0
+XPos=849
+YPos=169
+[Part 78/GroupSources]
+[Part 79]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 79
+VRef=0
+XPos=849
+YPos=283
+[Part 79/GroupSources]
+[Part 8]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 8
+VRef=0
+XPos=109
+YPos=169
+[Part 8/GroupSources]
+[Part 80]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 80
+VRef=0
+XPos=849
+YPos=397
+[Part 80/GroupSources]
+[Part 81]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 81
+VRef=0
+XPos=849
+YPos=511
+[Part 81/GroupSources]
+[Part 82]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 82
+VRef=0
+XPos=849
+YPos=625
+[Part 82/GroupSources]
+[Part 83]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 83
+VRef=0
+XPos=849
+YPos=739
+[Part 83/GroupSources]
+[Part 84]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 84
+VRef=0
+XPos=923
+YPos=55
+[Part 84/GroupSources]
+[Part 85]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 85
+VRef=0
+XPos=923
+YPos=169
+[Part 85/GroupSources]
+[Part 86]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 86
+VRef=0
+XPos=923
+YPos=283
+[Part 86/GroupSources]
+[Part 87]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 87
+VRef=0
+XPos=923
+YPos=397
+[Part 87/GroupSources]
+[Part 88]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 88
+VRef=0
+XPos=923
+YPos=511
+[Part 88/GroupSources]
+[Part 89]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 89
+VRef=0
+XPos=923
+YPos=625
+[Part 89/GroupSources]
+[Part 9]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 9
+VRef=0
+XPos=109
+YPos=283
+[Part 9/GroupSources]
+[Part 90]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 90
+VRef=0
+XPos=923
+YPos=739
+[Part 90/GroupSources]
+[Part 91]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 91
+VRef=0
+XPos=997
+YPos=55
+[Part 91/GroupSources]
+[Part 92]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 92
+VRef=0
+XPos=997
+YPos=169
+[Part 92/GroupSources]
+[Part 93]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 93
+VRef=0
+XPos=997
+YPos=283
+[Part 93/GroupSources]
+[Part 94]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 94
+VRef=0
+XPos=997
+YPos=397
+[Part 94/GroupSources]
+[Part 95]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 95
+VRef=0
+XPos=997
+YPos=511
+[Part 95/GroupSources]
+[Part 96]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 96
+VRef=0
+XPos=997
+YPos=625
+[Part 96/GroupSources]
+[Part 97]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 97
+VRef=0
+XPos=997
+YPos=739
+[Part 97/GroupSources]
+[pathRules]
+GlobalRule=-1
+[Table]
+MaxHeight=1000
+Origin=6
+RapidSpeed=2000
+tableOrigin=6
+TableX1=0
+TableX2=1500
+TableY1=0
+TableY2=2500
+ToolTime=0
+X1=0
+X2=1000
+Y1=0
+Y2=1000
+[Tool0]
+Comment=
+Cut height=1.5
+Feed rate=2000
+Kerf width=1.5
+Name=–ü–ª–∞–∑–º–∞, 1,5 –º–º –ø—Ä–æ—Ä–µ–∑
+Pause at end of cut=0.5
+Pierce delay=0.5
+Pierce height=3
+Pierce type=2
+Plunge rate=100
+Tool number=2
+Type=PlasmaTool
+Wiggle length=10
+[Tool0/Custom]
+[ToolChange]
+BeforeCode=
+Code=
+noSafeZ=0
+UseX=0
+UseY=0
+UseZ=0
+X=0
+Y=0
+Z=0
+[Variables]
+[Work]
+Bottom=0
+Clearance=10
+isPolygon=0
+Notes=
+Origin=9
+ParkUseX=0
+ParkUseY=0
+ParkUseZ=0
+ParkX=0
+ParkY=0
+ParkZ=0
+PlungeSafety=0.5
+polyLayer=0
+polyPart=0
+Thickness=1.5
+X1=0
+X2=1500
+Y1=0
+Y2=2500
+[Work/keepout]
+Clamp Clearance Height=RapidClearance
+Corner 1X=0
+Corner 1Y=0
+Corner 2X=0
+Corner 2Y=0
+Function=0
+Inside=1
+layer=0
+part=0
+[BinaryDataStart]%                 .¿ ¯ 0                9@R6Û«ó≠@@       @<@R6Û«óMB@         9@R6Û«óMB@   -DT˚!˘ø	   -DT˚!	@
+        
+@                 @<@R6Û«óMB@         9@S6Û«óÌC@         9@R6Û«óMB@   -DT˚!˘ø	   -DT˚!˘?
+        
+@                   9@S6Û«óÌC@   ˇˇˇˇˇø5@R6Û«óMB@         9@R6Û«óMB@   -DT˚!˘ø	           
+        
+@             ˇˇˇˇˇø5@R6Û«óMB@         9@R6Û«ó≠@@         9@R6Û«óMB@   -DT˚!˘ø	   -DT˚!˘ø
+        
+@           ¯ 0             ¿≠º<Q6Û«ó≠@@        
+@R6Û«óMB@           R6Û«óMB@   -DT˚!˘ø	   -DT˚!	@
+        
+@                  
+@R6Û«óMB@           T6Û«óÌC@           R6Û«óMB@   -DT˚!˘ø	   -DT˚!˘?
+        
+@                     T6Û«óÌC@        
+¿R6Û«óMB@           R6Û«óMB@   -DT˚!˘ø	           
+        
+@                  
+¿R6Û«óMB@      ¿≠º<Q6Û«ó≠@@           R6Û«óMB@   -DT˚!˘ø	   -DT˚!˘ø
+        
+@           ¯ 0                9¿T6Û«ó≠@@       ¿5¿R6Û«óMB@         9¿R6Û«óMB@   -DT˚!˘ø	   -DT˚!	@
+   Ëˇˇˇˇˇ	@                 ¿5¿R6Û«óMB@         9¿Q6Û«óÌC@         9¿R6Û«óMB@   -DT˚!˘ø	   -DT˚!˘?
+   Ëˇˇˇˇˇ	@                   9¿Q6Û«óÌC@   ˝ˇˇˇˇ?<¿R6Û«óMB@         9¿R6Û«óMB@   -DT˚!˘ø	           
+   Ëˇˇˇˇˇ	@             ˝ˇˇˇˇ?<¿R6Û«óMB@         9¿T6Û«ó≠@@         9¿R6Û«óMB@   -DT˚!˘ø	   -DT˚!˘ø
+   Ëˇˇˇˇˇ	@           ¯ 0               ÄA@§lÊè/€0@         A@JŸÃ_∂/@        ÄA@JŸÃ_∂/@   -DT˚!˘ø	           
+   ˇˇˇˇˇÔ?                   A@JŸÃ_∂/@        ÄA@KŸÃ_∂-@        ÄA@JŸÃ_∂/@   -DT˚!˘ø	   -DT˚!˘ø
+         ?                  ÄA@KŸÃ_∂-@        ÄA@     ÄK¿   hÑïw  9¿R6ÛG  B@   -DT˚!	@	           
+   
+   |—                   ÄA@     ÄK¿        ÄA¿     ÄK¿   hÑïw  9¿R6ÛG  B@   -DT˚!˘ø	           
+   
+   |—                   ÄA¿     ÄK¿        ÄA¿KŸÃ_∂-@   hÑïw  9¿R6ÛG  B@           	           
+   
+   |—                   ÄA¿KŸÃ_∂-@         A¿JŸÃ_∂/@        ÄA¿JŸÃ_∂/@   -DT˚!˘ø	   -DT˚!	@
+   ÛˇˇˇˇˇÔ?                   A¿JŸÃ_∂/@        ÄA¿•lÊè/€0@        ÄA¿JŸÃ_∂/@   -DT˚!˘ø	   -DT˚!˘?
+         ?                  ÄA¿•lÊè/€0@        ÄA¿     ÄK@   hÑïw  9¿R6ÛG  B@           	           
+   
+   |—                   ÄA¿     ÄK@        ÄA@     ÄK@   hÑïw  9¿R6ÛG  B@   -DT˚!˘?	           
+   
+   |—                   ÄA@     ÄK@        ÄA@§lÊè/€0@   hÑïw  9¿R6ÛG  B@   -DT˚!	@	           
+   
+   |—                    @         @               ˇˇˇˇ           9@  R6Û«ó≠@@      #    $                          @         @               ˇˇˇˇ        ¿≠º<  P6Û«ó≠@@      #    $                          @         @               ˇˇˇˇ           9¿  T6Û«ó≠@@       #    $                          @         @               ˇˇˇˇ          ÄA@  §lÊè/€0@      #    $                      
